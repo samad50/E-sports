@@ -1,0 +1,237 @@
+
+/*Most of the low resolution mobile phone css*/
+@media (min-width: 260px) and (max-width: 320px){
+
+	/*css start*/
+
+
+
+	                   .header .navbar-light .navbar-toggler{
+						color: #fff;
+						text-align: right;
+						border-color: #fff;
+					    }
+					   .header .navbar-nav{
+						margin: 30px 0px 0px;
+					    }
+	/*css end*/
+
+
+}
+
+
+/*Most of the mobile phone css*/
+@media (min-width: 321px) and (max-width: 480px){
+
+	/*css start*/
+					.header .navbar-light .navbar-toggler{
+						color: #fff;
+						text-align: right;
+						border-color: #fff;
+					    }
+					   .header .navbar-nav{
+						margin: 30px 0px 0px;
+					    }
+					    .banner .inner-text{
+					    	padding: 40px 0px;
+
+                          }
+                          .banner .inner-text h4{
+                          	font-size: 40px;
+                          	line-height: 50px;
+                          }
+                          .banner .btn-primary{
+                          	width: 35%;
+                          	font-size: 18px;
+                          	line-height: 16px;
+                          }   
+                             .about-us .title p{
+                              font-size: 18px;
+                              line-height: 28px;
+	                          }
+	                          .about-us .btn-primary{
+	                          	font-size: 18px;
+	                          	line-height: 16px;
+	                          	width: 40%;
+	                          }
+	                          .compete-us .inner-compete h4{
+	                          	font-size: 40px;
+	                          	line-height: 60px;
+	                          }
+	                          .compete-us .inner-compete p{
+	                          	font-size: 18px;
+	                          	line-height: 28px;
+	                          }
+	                          .compete-us .btn-primary{
+	                          	width: 40%;
+	                          }
+	                          .training .title p {
+								    font-size: 18px;
+								    line-height: 28px;
+								}
+								.training .btn-primary{
+									width: 40%;
+									font-size: 12px;
+									line-height: 16px;
+									margin-bottom: 40px;
+								}
+
+									.blog .blog-text h4 {
+									    font-size: 26px;
+									    line-height: 36px;
+									}
+									.blog .blog-text p {
+									    font-size: 12px;
+									    line-height: 22px;
+									}
+									.blog .btn-primary{
+										width: 40%;
+										font-size: 16px;
+										line-height: 12px;
+									}
+									.newsletter{
+										padding: 0px 0px;
+									}
+									.newsletter .newsletter-text {
+										margin-top: 40px;
+									}
+									.newsletter .newsletter-text h4 {
+									    
+									    font-size: 40px;
+									    line-height: 50px;
+									}
+									.newsletter .newsletter-text p{
+
+									    font-size: 15px;
+									}
+									.footer .left-text{
+										text-align: center;
+									}
+									.footer .right-text span{
+										font-size: 14px;
+									}
+									.footer .right-text{
+										margin-top: 20px;
+									}
+
+
+
+					   
+
+
+	/*css end*/
+					   
+
+
+}
+
+/*most of the low resolution tablet, mobile phone css*/
+@media (min-width: 481px) and (max-width: 767px){
+
+
+	/*css start*/
+		                .header .navbar-light .navbar-toggler{
+						color: #fff;
+						text-align: right;
+						border-color: #fff;
+					    }
+					   .header .navbar-nav{
+						margin: 30px 0px 0px;
+					    }
+					    .banner .inner-text h4 {
+						   
+						    font-size: 55px;
+						    line-height: 65px;
+						}
+						.banner .inner-text{
+							padding: 40px 0px;
+						}
+						.banner .btn-primary{
+							width: 30%;
+							font-size: 20px;
+							line-height: 20px;
+						}
+						.about-us .btn-primary{
+							width: 25%;
+
+						}
+						.compete-us .inner-compete p {
+							font-size: 24px;
+							line-height: 34px;
+						}
+						.training .title p{
+							font-size: 24px;
+							line-height: 34px;
+						}
+						.training .btn-primary{
+							margin-bottom: 40px;
+						}
+						.footer .left-text {
+							text-align: center;
+						}
+						.footer .right-text {
+						    text-align: center;
+						    margin-top: 20px;
+						}
+	/*css end*/
+
+}
+
+/*most of the ipad, tablet,notebook css*/
+@media (min-width: 768px) and (max-width: 1024px){
+
+	/*css start*/
+	                    .header .navbar-light .navbar-toggler{
+						color: #fff;
+						text-align: right;
+						border-color: #fff;
+					    }
+					   .header .navbar-nav{
+						margin: 30px 0px 0px;
+					    }
+					    .banner .inner-text{
+					    	padding: 40px 0px;
+					    }
+					    .banner .inner-text p{
+					    	font-size: 17px;
+					    	line-height: 25px;
+					    }
+					    .banner .btn-primary{
+					    	width: 21%;
+					    	font-size: 20px;
+					    	line-height: 20px;
+					    }
+					    .about-us .btn-primary{
+					    	width: 21%;
+					    	font-size: 20px;
+					    	line-height: 20px;
+					    }
+					    .compete-us .inner-compete p {
+						    font-size: 22px;
+						    line-height: 32px;
+						}
+						.compete-us .btn-primary{
+							width: 21%;
+						}
+						.training .title p{
+							font-size: 22px;
+							line-height: 32px;
+						}
+						.training .btn-primary{
+							width: 21%;
+							margin-bottom: 40px;
+						}
+						.blog .btn-primary{
+							width: 21%;
+						}
+						.footer .left-text{
+							text-align: center;
+						}
+						.footer .right-text{
+							text-align: center;
+							margin-top: 20px;
+						}
+	/*css end*/
+
+	
+}
